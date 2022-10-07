@@ -1,6 +1,6 @@
 {
   "name": "fitnes-website",
-  "homepage": "https://mhdi-nzari.github.io/Responsive-Fitnes-Website/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
